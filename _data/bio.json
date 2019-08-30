@@ -1,57 +1,45 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jaren Jose De Hitta",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://jdehitta.github.io/images/molly.png",
     "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "phone": "808-351-7412",
+    "website": "https://jdehitta.github.io",
+    "summary": "I am a 3rd year studying Accounting and MIS at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "94-1028 Waiopae St.",
+      "postalCode": "96797",
+      "city": "Waipahu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "jdehitta",
+        "url": "http://github.com/jdehitta"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "mcjaerbear",
+        "url": "http://instagram.com/mcjaerbear"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Accounting",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "",
       "keywords": [
       ]
     }

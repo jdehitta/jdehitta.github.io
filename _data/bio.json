@@ -29,17 +29,17 @@
   },
   "interests": [
     {
+      "name": "Music",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Technology",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Accounting",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Software Engineering",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "",
       "keywords": [
       ]
     }
